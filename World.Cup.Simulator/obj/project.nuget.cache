@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RK0d0QyPQFkPZaSH9UQy1i5RCGNaNoudJbMsaE1Fv+S588cwhmYd2xoLQDMKshOisQiXOBFnNLXHh37N1NWwww==",
+  "dgSpecHash": "qOwLalj2IpQaeyT8Awwayf+zoZkS5snZZXcSCcWUztPfwodb5ql6HLOKTo1dMEPHoEV6TmiWVB4zjuSb9qgq9w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\USERS\\source\\repos\\ponta\\World.Cup.Simulator\\World.Cup.Simulator\\World.Cup.Simulator.csproj",
+  "projectFilePath": "E:\\Treinamento\\TypeScriptCurso\\ProjetoPonta\\World.Cup.Simulator\\World.Cup.Simulator.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\USERS\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\USERS\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

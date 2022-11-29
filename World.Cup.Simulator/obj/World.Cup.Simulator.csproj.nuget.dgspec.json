@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\USERS\\source\\repos\\ponta\\World.Cup.Simulator\\World.Cup.Simulator\\World.Cup.Simulator.csproj": {}
+    "E:\\Treinamento\\TypeScriptCurso\\ProjetoPonta\\World.Cup.Simulator\\World.Cup.Simulator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\USERS\\source\\repos\\ponta\\World.Cup.Simulator\\World.Cup.Simulator\\World.Cup.Simulator.csproj": {
+    "E:\\Treinamento\\TypeScriptCurso\\ProjetoPonta\\World.Cup.Simulator\\World.Cup.Simulator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USERS\\source\\repos\\ponta\\World.Cup.Simulator\\World.Cup.Simulator\\World.Cup.Simulator.csproj",
+        "projectUniqueName": "E:\\Treinamento\\TypeScriptCurso\\ProjetoPonta\\World.Cup.Simulator\\World.Cup.Simulator.csproj",
         "projectName": "World.Cup.Simulator",
-        "projectPath": "C:\\Users\\USERS\\source\\repos\\ponta\\World.Cup.Simulator\\World.Cup.Simulator\\World.Cup.Simulator.csproj",
+        "projectPath": "E:\\Treinamento\\TypeScriptCurso\\ProjetoPonta\\World.Cup.Simulator\\World.Cup.Simulator.csproj",
         "packagesPath": "C:\\Users\\USERS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USERS\\source\\repos\\ponta\\World.Cup.Simulator\\World.Cup.Simulator\\obj\\",
+        "outputPath": "E:\\Treinamento\\TypeScriptCurso\\ProjetoPonta\\World.Cup.Simulator\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
